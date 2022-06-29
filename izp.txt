@@ -1,4 +1,0 @@
-Stefan;19;SRB;120;85
-Kristiyan;19;BG;15;1
-Ivan;19;RO;0;0
-Kiril;19;BG;155;1
